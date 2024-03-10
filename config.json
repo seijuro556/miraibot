@@ -1,5 +1,5 @@
 {
-    "language": "vi",
+    "language": "en",
     "keyActive": "",
     "DeveloperMode": false,
     "autoCreateDB": true,
@@ -12,10 +12,10 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Mirai-Project",
+    "BOTNAME": "𝗖𝗵𝗶𝘇𝘂 𝟮.𝟬",
     "PREFIX": "'",
     "ADMINBOT": [
-        "100040984926932"
+        "100071761961640"
     ],
     "DATABASE": {
         "sqlite": {
